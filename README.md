@@ -1,13 +1,10 @@
-
 # 📌 Job Portal Application
 
 ## 🚀 Overview
 
 This is a **Job Portal Application** built using **Spring Boot, Java, and MySQL**.
 The platform connects **job seekers** and **employers** in a smarter way with features like real-time chat, personalized job recommendations, and internship opportunities.
-
 ---
-
 ## ✨ Features
 
 * 🔍 **Smart Job Search** – Advanced filters based on location, skills, and job type.
@@ -16,9 +13,7 @@ The platform connects **job seekers** and **employers** in a smarter way with fe
 * 🎥 **Video Resume Option** – Candidates can upload short video resumes.
 * 🎓 **Internship + Freelancing** – Special section for freshers and students.
 * ✅ **Verified Employers** – Ensures trust and removes fake job postings.
-
 ---
-
 ## 🛠️ Tech Stack
 
 * **Backend:** Java, Spring Boot
@@ -86,4 +81,4 @@ For queries or suggestions:
 
 
 
-Kya tumhe chahiye mai isko ek **stylish README.md file ready karke de du (badges, colorful headings, icons ke sath)** jo GitHub par aur attractive lage?
+Kya tumhe chahiye mai isko ek **stylish README.md file ready karke de du (badges, colorful headings, icons ke sath)** jo GitHub par aur attractive lage
